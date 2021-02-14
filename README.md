@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm interested in interesting tools and user/developer frienldy applications. Because of this I constantly learning and reading about technology and I try to get familiar with many libraries.
+I like interesting tools and user/developer frienldy applications. Because of this I constantly learn and read about technology, and I try to get familiar with many libraries.
 
 My latest interests:
 - https://github.com/ClickHouse/ClickHouse
