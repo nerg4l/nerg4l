@@ -11,10 +11,7 @@ My latest interests:
 - https://github.com/dokku/dokku
 - https://github.com/uuid6/uuid6-ietf-draft
 
-My social links:
-- [Stack Overflow](https://stackoverflow.com/users/2231168/nergal)
-- [LinkedIn](https://www.linkedin.com/in/laszlo-gorog/)
-- [Website](https://nergal.xyz/)
+My social links: [Stack Overflow](https://stackoverflow.com/users/2231168/nergal) | [LinkedIn](https://www.linkedin.com/in/laszlo-gorog/) | [Website](https://nergal.xyz/)
 
 <!--
 **nerg4l/nerg4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
