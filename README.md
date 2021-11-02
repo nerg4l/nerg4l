@@ -1,6 +1,6 @@
-### Hi there
+# Welcome to my GitHub profile
 
-I like interesting tools and user/developer frienldy applications. Because of this, I constantly learn and read about technology, and I try to get familiar with many libraries.
+I like interesting tools and user/developer frienldy applications. Because of this, I constantly learn and read about technology.
 
 My latest interests:
 - https://github.com/ClickHouse/ClickHouse
@@ -10,6 +10,11 @@ My latest interests:
 - https://github.com/leandromoreira/digital_video_introduction
 - https://github.com/dokku/dokku
 - https://github.com/uuid6/uuid6-ietf-draft
+
+My social links:
+- [Stack Overflow](https://stackoverflow.com/users/2231168/nergal)
+- [LinkedIn](https://www.linkedin.com/in/laszlo-gorog/)
+- [Website](https://nergal.xyz/)
 
 <!--
 **nerg4l/nerg4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
