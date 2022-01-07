@@ -2,9 +2,10 @@
 
 I like interesting tools and user/developer frienldy applications. Because of this, I constantly learn and read about technology.
 
-My latest interests:
+My current interests (alphabetically):
 - https://github.com/ClickHouse/ClickHouse
 - https://github.com/dokku/dokku
+- https://github.com/golang/go
 - https://github.com/ietf-wg-cellar/ebml-specification
 - https://github.com/ietf-wg-cellar/matroska-specification
 - https://github.com/krzemienski/awesome-video/
