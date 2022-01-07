@@ -4,12 +4,12 @@ I like interesting tools and user/developer frienldy applications. Because of th
 
 My latest interests:
 - https://github.com/ClickHouse/ClickHouse
+- https://github.com/dokku/dokku
 - https://github.com/ietf-wg-cellar/ebml-specification
 - https://github.com/ietf-wg-cellar/matroska-specification
 - https://github.com/krzemienski/awesome-video/
 - https://github.com/leandromoreira/digital_video_introduction
-- https://github.com/dokku/dokku
-- https://github.com/uuid6/uuid6-ietf-draft
+- https://github.com/redis/redis
 
 My social links: [Stack Overflow](https://stackoverflow.com/users/2231168/nergal) | [LinkedIn](https://www.linkedin.com/in/laszlo-gorog/) | [Personal website](https://nergal.xyz/)
 
