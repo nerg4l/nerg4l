@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile
 
-I like interesting tools and user/developer frienldy applications. Because of this, I constantly learn and read about technology.
+I like interesting tools and user/developer friendly applications. Because of this, I constantly learn and read about technology.
 
 My current interests (alphabetically):
 - https://github.com/ClickHouse/ClickHouse
