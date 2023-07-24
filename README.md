@@ -11,6 +11,7 @@ My current interests (alphabetically):
 - https://github.com/krzemienski/awesome-video/
 - https://github.com/leandromoreira/digital_video_introduction
 - https://github.com/redis/redis
+- https://github.com/sveltejs/svelte
 
 My social links: [Stack Overflow](https://stackoverflow.com/users/2231168/nergal) | [LinkedIn](https://www.linkedin.com/in/laszlo-gorog/) | [Personal website](https://nergal.xyz/)
 
