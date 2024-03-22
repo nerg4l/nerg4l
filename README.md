@@ -5,6 +5,7 @@ I like interesting tools and user/developer friendly applications. Because of th
 My current interests (alphabetically):
 - https://github.com/ClickHouse/ClickHouse
 - https://github.com/dokku/dokku
+- https://github.com/microsoft/garnet
 - https://github.com/golang/go
 - https://github.com/ietf-wg-cellar/ebml-specification
 - https://github.com/ietf-wg-cellar/matroska-specification
